@@ -1,0 +1,140 @@
+ 
+body{
+  margin: 0px 0px 0px 0px;
+  background: url(../img/14.png) no-repeat left top;
+  width: 375px;
+	height: 594px;
+}
+
+#head {
+	margin-top: 18px;
+	margin-left: 26px;
+}
+#character {
+	font-size: 18px;
+	
+}
+#character-down {
+	color: #a4a4a4;
+	font-size: 10px;
+	margin-top:12px;
+}
+#character1{
+	margin-top: 12px;
+}
+#character1-img{
+	width: 271px;
+	height: 58px;
+	margin-left: 23px;
+}
+#character1-font {
+	margin-top: 9px;
+	margin-left: 26px;
+	color: #e7e7e7;
+	font-size: 20px;
+	font-family: PingFangSC-Semibold;
+	
+}
+#character2{
+	margin-top: 180px;
+} 
+
+li{ float: left; color: #FFFFFF;  }   
+
+#rounded {
+	float: left;
+	margin-left: 18px;
+	margin-top: 40px;
+}
+
+#rounded-one{
+	margin:0 auto;
+
+            background: darkcyan;
+
+            width:157px;
+
+            height:53px;
+
+            border:2px solid darkslategray;
+
+            border-radius:10px;
+
+            text-align: center;
+
+            float: left; 
+}
+#rectangle-font-image-one{
+	width: 19px;
+	height: 18px;
+	margin-top: 15px;
+	
+}
+#rectangle-font-one{
+	 font-size: 18px;
+	 margin-top: 15px;
+}
+#rounded-two{
+	background: #FF6652;
+
+            width:157px;
+
+            height:53px;
+
+            border:2px solid darkslategray;
+
+            border-radius:10px;
+
+            float: left;
+            
+            margin-left: 18px;
+            
+            text-align: center;
+            
+}
+
+#rectangle-font-image-two{
+	width: 18px;
+	height: 20px;
+	margin-top: 15px;
+	
+}
+#rectangle-font-two{
+	 font-size: 18px;
+	 color: #ffffff;
+	 margin-top: 15px;
+}
+#rounded-three {
+	background:#C9C9CC;  
+
+            width:339px;
+
+            height:56px;
+
+            border:2px solid darkslategray;
+
+            border-radius:10px;
+
+            clear: both;
+            
+            margin-top: 336px;
+            
+            margin-left: 18px;
+            
+            font-family: PingFang SC;
+}
+#call {
+	color: #a4a4a4;
+	font-size: 12px;
+	margin-left: 39px;
+	margin-top: 10px;
+}
+#call-number{
+	color: #efefef;
+	font-size: 12px;
+}
+
+
+
+
+
